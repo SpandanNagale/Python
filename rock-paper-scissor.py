@@ -6,6 +6,7 @@ for i in range(3):
     b=int(input("enter your choice"))
     r.seed(3)
     c=r.randint(1,3)
+    print(c)
     if(b==1 and c==1):          #every single condition in rock paper scissor
      print("draw")
     elif(b==1 and c==2):

@@ -1,1 +1,1 @@
-random.seed
+https://chat.openai.com/

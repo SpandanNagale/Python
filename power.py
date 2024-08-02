@@ -3,5 +3,6 @@ def power(a,b):
         return 0
     else:
         print(a**b)
-
-power(4,3)        
+a=int(input("enter the number:"))
+b=int(input("enter the power:"))
+power(a,b)        
